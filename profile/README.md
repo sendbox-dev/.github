@@ -1,6 +1,8 @@
 # SendBox
 
-SendBox is built in the open by [Synctune Open](https://github.com/synctune-open), a branch of [Synctune](https://github.com/synctune-io), focused on running coding agents safely. We give each agent a dedicated VM and an explicit policy for files, network destinations, credentials and MCP tools, instead of your whole machine.
+SendBox is built in the open by [Synctune Open](https://github.com/synctune-open), a branch of [Synctune](https://github.com/synctune-io), focused on running coding agents safely. 
+
+We give each agent a dedicated VM and an explicit policy for files, network destinations, credentials and MCP tools, instead of your whole machine.
 
 Website and documentation: [sendbox.synctune.it](https://sendbox.synctune.it)
 
